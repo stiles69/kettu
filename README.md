@@ -1,3 +1,6 @@
+![Rogue Designs Logo](https://storage.googleapis.com/stiles-images/RogueLogo-256x158.png)
+**Rogue Designs**
+
 # kettu
 Port of http://github.com/kjg/derailleur and the original Transmission Web Client
 using [jquery](http://jquery.com), [sammy.js](http://github.com/quirkey/sammy) and [mustache.js](http://github.com/janl/mustache.js).
